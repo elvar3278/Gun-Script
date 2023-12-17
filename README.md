@@ -2,7 +2,7 @@
 A script I am designing to be versatile and usable with all and any guns without external scripts, except for player movements
 
 ## Log 1. June 2023
-I started working on this code as a project for my friend who just got into unity C# developing, the code has so far worked really well and I pulled an allnighter working on it
+I started working on this code as a project for my friend who just got into unity C# developing, the code has so far worked really well and I pulled an allnighter working on it <br>
 Added
 - muzzle
 - shoot_SFX
@@ -20,7 +20,7 @@ Added
 - is_auto
   
 ## Log 2. December 2023
-I forgot about this code until now, my pc has been showing signs of failure and I want to save the code just to be sure, I will continue developing it. Now I am working on simple reaload animations and sounds.
+I forgot about this code until now, my pc has been showing signs of failure and I want to save the code just to be sure, I will continue developing it. Now I am working on simple reaload animations and sounds. <br>
 Working on
 - Reaload animations
 - Reaload SFX
