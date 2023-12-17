@@ -21,6 +21,7 @@ Added
   
 ## Log 2. December 2023
 I forgot about this code until now, my pc has been showing signs of failure and I want to save the code just to be sure, I will continue developing it. Now I am working on simple reaload animations and sounds... <br>
+Commit suicide
 Working on
 - Reaload animations
 - Reaload SFX
