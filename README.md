@@ -26,6 +26,7 @@ Working on
 - Reaload SFX
 - Shotgun mode
 - Burst mode
+- Explosive bullets
 - Bullet Trails
 - Bullet Hit Marks
 - Current Amo Display on screan
